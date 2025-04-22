@@ -30,7 +30,7 @@ Automating infrastructure, optimizing deployments, and building reliable systems
 ## 📈 GitHub Analytics
 
 <!-- GitHub Stats Card -->
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narinder-clouds&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/YNarinder-clouds)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narinder-clouds&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Narinder-clouds)
 
 <!-- Most Used Languages -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narinder-clouds&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=html,css,scss)](https://github.com/Narinder-clouds)
