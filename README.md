@@ -54,7 +54,6 @@ Automating infrastructure, optimizing deployments, and building reliable systems
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Cloud Automation](https://github.com/Narinder-clouds/Terraform) | Terraform modules for multi-cloud infrastructure | Terraform, AWS, Azure |
-#| [CI/CD Pipeline](https://github.com/YNarinder-clouds/Jenkins) | End-to-end CI/CD implementation | Jenkins, Docker, SonarQube |
 | [Projects](https://github.com/Narinder-clouds/Projects) | Multiple Projects |
 ---
 
